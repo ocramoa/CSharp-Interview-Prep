@@ -1,9 +1,22 @@
-﻿namespace ValidParentheses
+﻿/** 
+Prompt:
+
+Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
+An input string is valid if:
+
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+Every close bracket has a corresponding open bracket of the same type.
+*/
+
+namespace ValidParentheses
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            // Test code for our solution.
             Solution s2 = new();
             Console.WriteLine(s2.IsValid("(){}[]"));
             Console.WriteLine(s2.IsValid("{[]}"));
@@ -13,6 +26,9 @@
 
     public class Solution
     {
+        // The following code looks quite messy. This is because we first have to catch a few edge cases.
+        // After that, we want to solve this problem with a Stack data structure.
+        // In case you aren't familiar with a Stack, it follows a Last In First Out pattern.
         bool result = false;
         public char[] leftSide = { '(', '[', '{' };
         public Dictionary<char, char> rightSide = new Dictionary<char, char>() { { ')', '(' }, { ']', '[' }, { '}', '{' } };
