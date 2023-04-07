@@ -1,0 +1,15 @@
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\bin\Debug\net7.0\ValidParentheses.exe
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\bin\Debug\net7.0\ValidParentheses.deps.json
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\bin\Debug\net7.0\ValidParentheses.runtimeconfig.json
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\bin\Debug\net7.0\ValidParentheses.dll
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\bin\Debug\net7.0\ValidParentheses.pdb
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.csproj.AssemblyReference.cache
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.AssemblyInfo.cs
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.dll
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\refint\ValidParentheses.dll
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.pdb
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ValidParentheses.genruntimeconfig.cache
+C:\Users\eyeba\c#_code\ValidParentheses\ValidParentheses\obj\Debug\net7.0\ref\ValidParentheses.dll
